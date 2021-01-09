@@ -1,9 +1,11 @@
 # pi-emre-auth
  
- ## Project setup
+## Project setup
 ```
 npm install
+```
 
-## Project stat
+### Start project
 ```
 node app.js
+```
