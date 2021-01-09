@@ -7,5 +7,5 @@ npm install
 
 ### Start project
 ```
-node app.js
+npm run start
 ```
